@@ -1,0 +1,12 @@
+ Volume in drive D is Windows
+ Volume Serial Number is ECAA-C56C
+
+ Directory of D:\Java
+
+22-01-2019  11:11    <DIR>          .
+22-01-2019  11:11    <DIR>          ..
+22-01-2019  11:11                 0 abc.txt
+22-01-2019  10:59               675 Hello.class
+22-01-2019  11:06               219 Hello.java
+               3 File(s)            894 bytes
+               2 Dir(s)  58,096,676,864 bytes free
